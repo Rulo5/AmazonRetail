@@ -1,0 +1,14 @@
+C:\Users\andre\source\repos\AmazonRetail\AmazonRetail\bin\Debug\AmazonRetail.exe.config
+C:\Users\andre\source\repos\AmazonRetail\AmazonRetail\bin\Debug\AmazonRetail.exe
+C:\Users\andre\source\repos\AmazonRetail\AmazonRetail\bin\Debug\AmazonRetail.pdb
+C:\Users\andre\source\repos\AmazonRetail\AmazonRetail\obj\Debug\AmazonRetail.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\AmazonRetail\AmazonRetail\obj\Debug\AmazonRetail.Form1.resources
+C:\Users\andre\source\repos\AmazonRetail\AmazonRetail\obj\Debug\AmazonRetail.Properties.Resources.resources
+C:\Users\andre\source\repos\AmazonRetail\AmazonRetail\obj\Debug\AmazonRetail.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\AmazonRetail\AmazonRetail\obj\Debug\AmazonRetail.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\AmazonRetail\AmazonRetail\obj\Debug\AmazonRetail.exe
+C:\Users\andre\source\repos\AmazonRetail\AmazonRetail\obj\Debug\AmazonRetail.pdb
+C:\Users\andre\source\repos\AmazonRetail\AmazonRetail\obj\Debug\AmazonRetail.Form2.resources
+C:\Users\andre\source\repos\AmazonRetail\AmazonRetail\obj\Debug\AmazonRetail.Form3.resources
+C:\Users\andre\source\repos\AmazonRetail\AmazonRetail\obj\Debug\AmazonRetail.Form4.resources
+C:\Users\andre\source\repos\AmazonRetail\AmazonRetail\obj\Debug\AmazonRetail.Form5.resources
